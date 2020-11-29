@@ -1,0 +1,8 @@
+git clone //Downloading directory
+git add //Adding files to local git repository
+git status //To know the current status of local repostory
+git commit -m "Message" //To commit new change
+git push origin master //Push local directory to cloud
+git pull //Updating local directory with current repostory 
+git config --global user.email "email" //Configuring git email
+git config -global user.name "name" //Configuring git password
