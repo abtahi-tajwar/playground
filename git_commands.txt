@@ -6,3 +6,4 @@ git push origin master //Push local directory to cloud
 git pull //Updating local directory with current repostory 
 git config --global user.email "email" //Configuring git email
 git config -global user.name "name" //Configuring git password
+git checkout
